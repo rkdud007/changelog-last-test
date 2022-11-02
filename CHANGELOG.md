@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0](https://github.com/rkdud007/changelog-last-test/compare/v1.3.2...v2.0.0) (2022-11-02)
+
+
+### ⚠ BREAKING CHANGES
+
+* aewgaew
+
+### Features
+
+* aweg ([21c4dd6](https://github.com/rkdud007/changelog-last-test/commit/21c4dd66022225ef8343f62bdac986b9ba4e577f))
+
 ### [1.3.2](https://github.com/rkdud007/changelog-last-test/compare/v1.3.1...v1.3.2) (2022-11-02)
 
 ### [1.3.1](https://github.com/rkdud007/changelog-last-test/compare/v1.3.0...v1.3.1) (2022-11-02)
