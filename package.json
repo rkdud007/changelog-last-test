@@ -1,6 +1,6 @@
 {
   "name": "changelog-last-test",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -20,6 +20,7 @@
   "homepage": "https://github.com/rkdud007/changelog-last-test#readme",
   "dependencies": {
     "conventional-github-releaser": "^3.1.5",
+    "dotenv": "^16.0.3",
     "standard-version": "^9.5.0"
   }
 }
