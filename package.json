@@ -1,6 +1,6 @@
 {
   "name": "changelog-last-test",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/rkdud007/changelog-last-test/issues"
   },
-  "homepage": "https://github.com/rkdud007/changelog-last-test#readme"
+  "homepage": "https://github.com/rkdud007/changelog-last-test#readme",
+  "dependencies": {
+    "standard-version": "^9.5.0"
+  }
 }
